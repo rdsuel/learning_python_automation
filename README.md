@@ -4,10 +4,10 @@ My exercise files from the "Using Python for Automation" course on LinkedIn Lear
 https://www.linkedin.com/learning/using-python-for-automation
 
 
-## Some useful websites from the course:
-- Practice web scraping here: http://quotes.toscrape.com/
-- More advanced scraping practice here: https://scrapingclub.com/
-- Selenium - Practice different automated web browser stuff here: https://www.seleniumeasy.com/test/
-- Selenium - Practice automated browser drag-and-drop here: http://dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html
-- API practice site: https://www.upcitemdb.com/api/explorer#!/lookup/get_trial_lookup
+## Some useful websites from the course for practicing:
+- Basic web scraping: http://quotes.toscrape.com/
+- Advanced web scraping (i.e. multi-page scraping): https://scrapingclub.com/
+- Browser automation practice: https://www.seleniumeasy.com/test/
+- Browser automation drag-and-drop: http://dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html
+- API practice: https://www.upcitemdb.com/api/explorer#!/lookup/get_trial_lookup
 - Advanced API stuff like connecting APIs, etc: https://rapidapi.com/
