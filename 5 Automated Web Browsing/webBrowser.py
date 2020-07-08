@@ -1,3 +1,4 @@
+# Open a web page, add text, click a button, etc.
 from selenium import webdriver
 driver = webdriver.Chrome()
 driver.get('https://www.seleniumeasy.com/test/basic-first-form-demo.html')

@@ -1,3 +1,4 @@
+# Basic API usage.  Looks up product details by the UPC code.
 import requests
 import json
 

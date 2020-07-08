@@ -1,3 +1,4 @@
+# Read and write files.
 f = open('Exercise Files/inputFile.txt', 'r')
 passFile = open('Exercise Files/PassFile.txt', 'w')
 failFile = open('Exercise Files/FailFile.txt', 'w')

@@ -1,3 +1,4 @@
+# Launch a web page and wait a specified amount of time for an element to become visible before clicking it.
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait

@@ -1,3 +1,4 @@
+# Automatic drag and drop on a web page.
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 driver = webdriver.Chrome()
