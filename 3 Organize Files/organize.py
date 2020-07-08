@@ -1,3 +1,4 @@
+#  Organize files into different folders based on the file extension.
 import os
 from pathlib import Path
 
