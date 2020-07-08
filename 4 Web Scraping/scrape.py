@@ -1,3 +1,4 @@
+# Scraping content from a single page.
 import requests
 from bs4 import BeautifulSoup
 

@@ -1,3 +1,4 @@
+# Scraping content from multiple pages.
 from bs4 import BeautifulSoup
 import requests
 
